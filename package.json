@@ -1,0 +1,22 @@
+{
+  "name": "ipcheck",
+  "version": "0.0.1",
+  "description": "compare ip files",
+  "main": "log.js",
+  "dependencies": {
+    "csv": "^0.4.2",
+    "ip": "^0.3.2",
+    "lodash": "^3.7.0",
+    "range_check": "0.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "file",
+    "compare"
+  ],
+  "author": "daniel",
+  "license": "MIT"
+}
